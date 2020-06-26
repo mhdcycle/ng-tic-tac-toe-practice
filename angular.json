@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tic-tac-toe"
+    }
+  },
+  "defaultProject": "tic-tac-toe",
+  "cli": {
+    "analytics": "ad7dbe50-d45c-4960-9c11-87d1d0b014e1"
+  }
 }
